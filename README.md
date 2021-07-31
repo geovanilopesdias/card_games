@@ -1,4 +1,4 @@
-# Card Games
+# Card Games*
 
 Gist of the Python Package linked [here](https://gist.github.com/geovanilopesdias/f1075636694a844d58e6939b52ac2e05).
 
@@ -23,3 +23,5 @@ As I abandon this script (because, back then, I was too bored to improve it), I 
 **Victory**: a method to identify that a player hand is a winner, finishing the game.
 
 A distant possibility would be to generate an AI to play it, but I currently don't know any Machine Learning feature to make this possible - far from it!
+
+\*Note: There is a method (called "cria_baralho_truco") to serve for another common Brazilian game (common, at least, bewtween elderly in my region): "Truco", but it was never written. Forseeing it, I tried to write the methods above to serve as many card games as possible (of course, of the hand check-pick-discard-turn type of game).
